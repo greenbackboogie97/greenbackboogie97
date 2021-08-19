@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omer!
 - 👀 I’m interested in web-development, JavaScript and React in particular.
-- 🌱 I’m currently learning Git and TypeScript
+- 🌱 I’m currently TypeScript
 - 📫 Reach me out on omerziger@icloud.com
 
 <!---
