@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Omer!
-- 👀 I’m interested in web-development, JavaScript and React in particular.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omer Ziger </h1>
+
+- 👀 I’m interested in web-development, JavaScript and React in particular
+- I ❤️ learning new technologies and explore new ideas
 - 🌱 I’m currently learning TypeScript
-- 📫 Reach me out on omerziger@icloud.com
+
+<h2 align="center">Contact Me</h2>
+<a target="_blank" href="https://www.linkedin.com/in/omerziger/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a href="mailto:omerziger@icloud.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-EMail-blue?style=for-the-badge&logo=icloud" /></a>
+
 
 <!---
 greenbackboogie97/greenbackboogie97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
