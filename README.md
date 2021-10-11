@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omer Ziger </h1>
 
 - 👀 I’m interested in web development
-- I ❤️ learning new technologies and explore new ideas
-- 🌱 I’m currently learning OOP, PHP & SQL
+- I ❤️ learning and exploring new ideas and concepts
+- 🌱 Currently learning OOP, PHP and SQL
+
+ <img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flatfor-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/-PHP-lightgrey?style=flatfor-the-badge&logo=php" > <img src="https://img.shields.io/badge/-NodeJS-lightgrey?style=flatfor-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/-React-lightgrey?style=flatfor-the-badge&logo=react" /> <img src="https://img.shields.io/badge/-Redux-lightgrey?style=flatfor-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/-MongoDB-lightgrey?style=flatfor-the-badge&logo=mongodb" > <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flatfor-the-badge&logo=mysql" />
+
 
 <h2 align="center">Contact Me</h2>
 <a target="_blank" href="https://www.linkedin.com/in/omerziger/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="mailto:omerziger@icloud.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-EMail-blue?style=for-the-badge&logo=icloud" /></a>
+<a href="mailto:omerziger@icloud.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=icloud" /></a>
 
 
 <!---
