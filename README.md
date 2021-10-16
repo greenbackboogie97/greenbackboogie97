@@ -4,7 +4,7 @@
 - I ❤️ learning and exploring new ideas and concepts
 - 🌱 Currently learning OOP, PHP and SQL
 
- <img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flatfor-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/-PHP-lightgrey?style=flatfor-the-badge&logo=php" > <img src="https://img.shields.io/badge/-NodeJS-lightgrey?style=flatfor-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/-React-lightgrey?style=flatfor-the-badge&logo=react" /> <img src="https://img.shields.io/badge/-Redux-lightgrey?style=flatfor-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/-MongoDB-lightgrey?style=flatfor-the-badge&logo=mongodb" > <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flatfor-the-badge&logo=mysql" />
+ <img src="https://img.shields.io/badge/-JavaScript-lightgrey?style=flatfor-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-lightgrey?style=flatfor-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/-PHP-lightgrey?style=flatfor-the-badge&logo=php" > <img src="https://img.shields.io/badge/-NodeJS-lightgrey?style=flatfor-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/-React-lightgrey?style=flatfor-the-badge&logo=react" /> <img src="https://img.shields.io/badge/-Redux-lightgrey?style=flatfor-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/-MongoDB-lightgrey?style=flatfor-the-badge&logo=mongodb" > <img src="https://img.shields.io/badge/-MySQL-lightgrey?style=flatfor-the-badge&logo=mysql" />
 
 
 <h2 align="center">Contact Me</h2>
